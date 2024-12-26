@@ -11,6 +11,6 @@ Provide recruiters, collaborators, and employers with insights into my capabilit
 📧 Contact
 Have questions? Reach out to me:
 
-Email: your.email@example.com
-LinkedIn: Your LinkedIn
-Twitter: Your Twitter
+Email: my.email@example.com
+LinkedIn: my LinkedIn
+Twitter: my Twitter
